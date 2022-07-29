@@ -1,0 +1,5 @@
+name: phoenixTrade
+version: 0.1
+author: Xeniks
+api-version: 1.18
+main: net.xeniks.trade.Main
